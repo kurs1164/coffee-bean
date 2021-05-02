@@ -383,6 +383,7 @@ form input[type="submit"]{
     text-transform: uppercase;
 } */
 
+
 .footer{
     /* background-color: goldenrod; */
     background-image: url(../images/footer-img.jpg);
@@ -416,8 +417,6 @@ form input[type="submit"]{
 .footer-social{
     background-color: #19100f;
     height: auto;
-    padding: 1em 7.5%;
-    color: #fff;
 }
 
 .footer-widgets h3{
@@ -432,15 +431,15 @@ form input[type="submit"]{
     color: #fff;
 }
 
-.footer-widgets th,td{
+.footer-widgets td,th{
     color: #fff;
-    font-family: 'Raleway'sans-serif;
+    font-family:  'Raleway', sans-serif;
     text-shadow: 3px 3px 6px #312a26;
 }
 
 .footer-widgets p{
     color: #c7a17a;
-    font-family: 'Raleway'sans-serif;
+    font-family:  'Raleway', sans-serif;
     text-shadow: 3px 3px 6px #312a26;
 }
 
@@ -451,13 +450,16 @@ form input[type="submit"]{
 .footer-social{
     background-color: #19100f;
     overflow: auto;
+    padding: 1em 7.5%;
+    color: #fff;
+
 }
 
 .social-widgets{
     width: 32.66%;
     float: left;
     text-align: center;
-    color:#fff;
+    color: #fff;
 }
 
 .social-widgets h3{
