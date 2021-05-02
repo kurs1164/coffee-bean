@@ -416,6 +416,8 @@ form input[type="submit"]{
 .footer-social{
     background-color: #19100f;
     height: auto;
+    padding: 1em 7.5%;
+    color: #fff;
 }
 
 .footer-widgets h3{
